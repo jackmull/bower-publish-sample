@@ -1,0 +1,21 @@
+{
+  "name": "pluralsight-rotate",
+  "version": "0.0.1",
+  "authors": [
+    "jackmull <jackmull1954@gmail.com>"
+  ],
+  "description": "bower test",
+  "main": "rotate.js",
+  "keywords": [
+    "bower",
+    "rotate"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
